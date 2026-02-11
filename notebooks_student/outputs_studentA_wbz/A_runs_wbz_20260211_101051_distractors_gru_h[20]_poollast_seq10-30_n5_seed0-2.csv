@@ -1,0 +1,16 @@
+model,pooling,task_variant,seq_len,hidden,seed,best_test_acc,success,steps_ran,train_time_sec,student_id,file_tag
+gru,last,distractors,10,20,0,1.0,1,300,1.5398399829864502,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,10,20,1,1.0,1,300,1.5638000965118408,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,10,20,2,1.0,1,300,3.9482064247131348,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,15,20,0,1.0,1,300,7.690226078033447,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,15,20,1,1.0,1,300,6.643847227096558,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,15,20,2,1.0,1,300,6.975766658782959,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,20,20,0,1.0,1,300,9.169168949127197,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,20,20,1,1.0,1,300,9.418139696121216,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,20,20,2,1.0,1,300,8.690943241119385,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,25,20,0,1.0,1,400,12.349779605865479,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,25,20,1,1.0,1,400,14.93340015411377,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,25,20,2,0.521484375,0,600,22.309964418411255,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,30,20,0,0.5234375,0,600,26.523766040802002,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,30,20,1,0.54296875,0,600,26.97972846031189,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2
+gru,last,distractors,30,20,2,0.5234375,0,600,26.67300009727478,wbz,wbz_20260211_101051_distractors_gru_h[20]_poollast_seq10-30_n5_seed0-2

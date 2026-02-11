@@ -13,5 +13,5 @@ from .train import TrainConfig, train_run, evaluate
 from .plotting import plot_heatmap, plot_lines_acc, plot_acc_over_steps
 
 from .experiment_a import sweep_frontier, summarize_frontier
-from .experiment_c import sweep_curriculum
-from .experiment_d import sweep_optimizers
+#from .experiment_c import sweep_curriculum
+#from .experiment_d import sweep_optimizers

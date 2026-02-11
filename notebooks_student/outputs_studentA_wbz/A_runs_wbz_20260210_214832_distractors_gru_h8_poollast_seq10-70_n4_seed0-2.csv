@@ -1,0 +1,13 @@
+model,pooling,task_variant,seq_len,hidden,seed,best_test_acc,success,steps_ran,train_time_sec,student_id,file_tag
+gru,last,distractors,10,8,0,1.0,1,300,1.4033188819885254,wbz,wbz_20260210_214832_distractors_gru_h8_poollast_seq10-70_n4_seed0-2
+gru,last,distractors,10,8,1,1.0,1,300,1.2197449207305908,wbz,wbz_20260210_214832_distractors_gru_h8_poollast_seq10-70_n4_seed0-2
+gru,last,distractors,10,8,2,1.0,1,300,1.1975514888763428,wbz,wbz_20260210_214832_distractors_gru_h8_poollast_seq10-70_n4_seed0-2
+gru,last,distractors,30,8,0,0.5234375,0,600,12.988172054290771,wbz,wbz_20260210_214832_distractors_gru_h8_poollast_seq10-70_n4_seed0-2
+gru,last,distractors,30,8,1,1.0,1,600,20.28790020942688,wbz,wbz_20260210_214832_distractors_gru_h8_poollast_seq10-70_n4_seed0-2
+gru,last,distractors,30,8,2,0.537109375,0,600,9.67946743965149,wbz,wbz_20260210_214832_distractors_gru_h8_poollast_seq10-70_n4_seed0-2
+gru,last,distractors,50,8,0,0.529296875,0,600,9.491463422775269,wbz,wbz_20260210_214832_distractors_gru_h8_poollast_seq10-70_n4_seed0-2
+gru,last,distractors,50,8,1,0.517578125,0,600,19.65957522392273,wbz,wbz_20260210_214832_distractors_gru_h8_poollast_seq10-70_n4_seed0-2
+gru,last,distractors,50,8,2,0.517578125,0,600,28.186025619506836,wbz,wbz_20260210_214832_distractors_gru_h8_poollast_seq10-70_n4_seed0-2
+gru,last,distractors,70,8,0,0.529296875,0,600,35.31699991226196,wbz,wbz_20260210_214832_distractors_gru_h8_poollast_seq10-70_n4_seed0-2
+gru,last,distractors,70,8,1,0.529296875,0,600,33.67617630958557,wbz,wbz_20260210_214832_distractors_gru_h8_poollast_seq10-70_n4_seed0-2
+gru,last,distractors,70,8,2,0.53125,0,600,33.208770513534546,wbz,wbz_20260210_214832_distractors_gru_h8_poollast_seq10-70_n4_seed0-2
