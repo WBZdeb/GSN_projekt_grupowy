@@ -1,0 +1,13 @@
+model,pooling,task_variant,seq_len,hidden,seed,best_test_acc,success,steps_ran,train_time_sec,student_id,file_tag
+gru,attn,distractors,2000,4,0,1.0,1,300,130.9169957637787,mwilk,mwilk_20260212_005805_distractors_gru_h4_poolattn_seq2000-20000_n4_seed0-2
+gru,attn,distractors,2000,4,1,1.0,1,400,175.05028414726257,mwilk,mwilk_20260212_005805_distractors_gru_h4_poolattn_seq2000-20000_n4_seed0-2
+gru,attn,distractors,2000,4,2,1.0,1,400,172.8341510295868,mwilk,mwilk_20260212_005805_distractors_gru_h4_poolattn_seq2000-20000_n4_seed0-2
+gru,attn,distractors,5000,4,0,1.0,1,400,494.7208399772644,mwilk,mwilk_20260212_005805_distractors_gru_h4_poolattn_seq2000-20000_n4_seed0-2
+gru,attn,distractors,5000,4,1,1.0,1,500,602.0277018547058,mwilk,mwilk_20260212_005805_distractors_gru_h4_poolattn_seq2000-20000_n4_seed0-2
+gru,attn,distractors,5000,4,2,1.0,1,400,480.0847280025482,mwilk,mwilk_20260212_005805_distractors_gru_h4_poolattn_seq2000-20000_n4_seed0-2
+gru,attn,distractors,10000,4,0,1.0,1,500,1295.3662149906158,mwilk,mwilk_20260212_005805_distractors_gru_h4_poolattn_seq2000-20000_n4_seed0-2
+gru,attn,distractors,10000,4,1,1.0,1,600,1599.2815427780151,mwilk,mwilk_20260212_005805_distractors_gru_h4_poolattn_seq2000-20000_n4_seed0-2
+gru,attn,distractors,10000,4,2,1.0,1,500,1295.8701770305634,mwilk,mwilk_20260212_005805_distractors_gru_h4_poolattn_seq2000-20000_n4_seed0-2
+gru,attn,distractors,20000,4,0,1.0,1,500,3003.8112621307373,mwilk,mwilk_20260212_005805_distractors_gru_h4_poolattn_seq2000-20000_n4_seed0-2
+gru,attn,distractors,20000,4,1,1.0,1,600,3548.4391100406647,mwilk,mwilk_20260212_005805_distractors_gru_h4_poolattn_seq2000-20000_n4_seed0-2
+gru,attn,distractors,20000,4,2,1.0,1,600,3534.439931869507,mwilk,mwilk_20260212_005805_distractors_gru_h4_poolattn_seq2000-20000_n4_seed0-2
