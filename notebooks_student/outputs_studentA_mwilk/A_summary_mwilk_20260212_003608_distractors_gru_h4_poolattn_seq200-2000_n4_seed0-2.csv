@@ -1,0 +1,5 @@
+model,pooling,seq_len,hidden,P_success,mean_best_acc,std_best_acc,mean_steps
+gru,attn,200,4,1.0,1.0,0.0,300.0
+gru,attn,500,4,1.0,1.0,0.0,333.3333333333333
+gru,attn,1000,4,1.0,1.0,0.0,333.3333333333333
+gru,attn,2000,4,1.0,1.0,0.0,366.6666666666667
