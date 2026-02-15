@@ -1,0 +1,16 @@
+model,pooling,task_variant,seq_len,hidden,seed,best_test_acc,success,steps_ran,train_time_sec,student_id,file_tag
+rnn,last,distractors,10,128,0,1.0,1,300,0.7899520397186279,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,10,128,1,1.0,1,300,0.7613439559936523,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,10,128,2,1.0,1,300,0.6992650032043457,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,20,128,0,1.0,1,300,0.9997010231018066,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,20,128,1,1.0,1,300,0.9475011825561523,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,20,128,2,1.0,1,300,0.9775450229644775,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,30,128,0,1.0,1,300,1.2015421390533447,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,30,128,1,1.0,1,300,1.2059657573699951,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,30,128,2,1.0,1,300,1.2878310680389404,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,40,128,0,1.0,1,300,1.4788181781768799,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,40,128,1,1.0,1,300,1.4883019924163818,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,40,128,2,1.0,1,300,1.5308070182800293,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,50,128,0,1.0,1,400,2.5590929985046387,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,50,128,1,1.0,1,300,1.8561549186706543,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
+rnn,last,distractors,50,128,2,1.0,1,300,1.8855581283569336,mszab,mszab_20260215_112750_distractors_rnn_h128_poollast_seq10-50_n5_seed0-2
