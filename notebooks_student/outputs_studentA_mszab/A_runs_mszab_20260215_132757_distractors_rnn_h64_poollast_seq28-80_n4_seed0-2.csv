@@ -1,0 +1,13 @@
+model,pooling,task_variant,seq_len,hidden,seed,best_test_acc,success,steps_ran,train_time_sec,student_id,file_tag
+rnn,last,distractors,28,64,0,1.0,1,400,1.4325709342956543,mszab,mszab_20260215_132757_distractors_rnn_h64_poollast_seq28-80_n4_seed0-2
+rnn,last,distractors,28,64,1,1.0,1,300,1.0328991413116455,mszab,mszab_20260215_132757_distractors_rnn_h64_poollast_seq28-80_n4_seed0-2
+rnn,last,distractors,28,64,2,1.0,1,300,1.0549402236938477,mszab,mszab_20260215_132757_distractors_rnn_h64_poollast_seq28-80_n4_seed0-2
+rnn,last,distractors,60,64,0,0.515625,0,600,3.6625988483428955,mszab,mszab_20260215_132757_distractors_rnn_h64_poollast_seq28-80_n4_seed0-2
+rnn,last,distractors,60,64,1,0.515625,0,600,3.602362871170044,mszab,mszab_20260215_132757_distractors_rnn_h64_poollast_seq28-80_n4_seed0-2
+rnn,last,distractors,60,64,2,1.0,1,600,3.6339690685272217,mszab,mszab_20260215_132757_distractors_rnn_h64_poollast_seq28-80_n4_seed0-2
+rnn,last,distractors,70,64,0,0.529296875,0,600,3.9356348514556885,mszab,mszab_20260215_132757_distractors_rnn_h64_poollast_seq28-80_n4_seed0-2
+rnn,last,distractors,70,64,1,1.0,1,600,3.883445978164673,mszab,mszab_20260215_132757_distractors_rnn_h64_poollast_seq28-80_n4_seed0-2
+rnn,last,distractors,70,64,2,1.0,1,400,2.671894073486328,mszab,mszab_20260215_132757_distractors_rnn_h64_poollast_seq28-80_n4_seed0-2
+rnn,last,distractors,80,64,0,0.515625,0,600,4.348723888397217,mszab,mszab_20260215_132757_distractors_rnn_h64_poollast_seq28-80_n4_seed0-2
+rnn,last,distractors,80,64,1,1.0,1,600,4.410513162612915,mszab,mszab_20260215_132757_distractors_rnn_h64_poollast_seq28-80_n4_seed0-2
+rnn,last,distractors,80,64,2,0.515625,0,600,4.359960079193115,mszab,mszab_20260215_132757_distractors_rnn_h64_poollast_seq28-80_n4_seed0-2
