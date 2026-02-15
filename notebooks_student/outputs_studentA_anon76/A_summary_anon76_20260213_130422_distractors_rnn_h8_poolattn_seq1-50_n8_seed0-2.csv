@@ -1,9 +1,0 @@
-model,pooling,seq_len,hidden,P_success,mean_best_acc,std_best_acc,mean_steps
-rnn,attn,1,8,1.0,1.0,0.0,300.0
-rnn,attn,2,8,1.0,1.0,0.0,300.0
-rnn,attn,5,8,1.0,1.0,0.0,300.0
-rnn,attn,10,8,1.0,1.0,0.0,300.0
-rnn,attn,20,8,1.0,1.0,0.0,300.0
-rnn,attn,30,8,1.0,1.0,0.0,300.0
-rnn,attn,40,8,1.0,1.0,0.0,300.0
-rnn,attn,50,8,1.0,1.0,0.0,300.0
