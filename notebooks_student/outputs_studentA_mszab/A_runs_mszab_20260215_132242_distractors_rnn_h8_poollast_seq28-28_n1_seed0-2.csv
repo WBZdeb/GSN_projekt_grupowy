@@ -1,0 +1,4 @@
+model,pooling,task_variant,seq_len,hidden,seed,best_test_acc,success,steps_ran,train_time_sec,student_id,file_tag
+rnn,last,distractors,28,8,0,0.556640625,0,600,1.3229150772094727,mszab,mszab_20260215_132242_distractors_rnn_h8_poollast_seq28-28_n1_seed0-2
+rnn,last,distractors,28,8,1,0.541015625,0,600,1.3129971027374268,mszab,mszab_20260215_132242_distractors_rnn_h8_poollast_seq28-28_n1_seed0-2
+rnn,last,distractors,28,8,2,0.525390625,0,600,1.2754850387573242,mszab,mszab_20260215_132242_distractors_rnn_h8_poollast_seq28-28_n1_seed0-2

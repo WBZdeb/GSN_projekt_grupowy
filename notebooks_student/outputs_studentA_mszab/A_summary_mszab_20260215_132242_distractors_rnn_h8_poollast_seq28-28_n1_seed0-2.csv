@@ -1,0 +1,2 @@
+model,pooling,seq_len,hidden,P_success,mean_best_acc,std_best_acc,mean_steps
+rnn,last,28,8,0.0,0.541015625,0.015625,600.0
